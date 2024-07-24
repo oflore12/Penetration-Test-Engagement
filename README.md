@@ -82,16 +82,16 @@ You've been provided full access to the network and are getting ping responses f
  
 #### Bonus
 A. Run a Meterpreter post script that enumerates all logged on users.
-  > command: run post/windows/gather/enum_logged_on_users
+      > command: run post/windows/gather/enum_logged_on_users
 ![Terminal image](https://github.com/oflore12/Penetration-Test-Engagment/blob/main/HW%2017%20images/Picture11.png)
 
 B. Open a Meterpreter shell and gather system information for the target.
-  > command: shell
-  > command: ipconfig –all
+      > command: shell
+      > command: ipconfig –all
 ![Terminal image](https://github.com/oflore12/Penetration-Test-Engagment/blob/main/HW%2017%20images/Picture12.png)
 
 C. Run the command that displays the target's computer system information:
-   > command: systeminfo
+      > command: systeminfo
 ![Terminal image](https://github.com/oflore12/Penetration-Test-Engagment/blob/main/HW%2017%20images/Picture13.png)
 
 ---
